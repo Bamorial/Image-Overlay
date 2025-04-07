@@ -34,7 +34,7 @@ overlay_texture_path = "PATH_TO_THE_TEXTURE"
 ```
 ### 3. Run 
 ```bash
-  python index2.py
+  python overlay.py
 ```
 ## Output 
   The script will:
